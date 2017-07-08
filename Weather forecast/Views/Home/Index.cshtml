@@ -1,0 +1,59 @@
+﻿@using System.Data
+@model Weather_forecast.Models.WeatherForecast
+@{
+    ViewBag.Title = "Home Page";
+    int dayCount = 1;
+    Culture = "En";
+}
+
+
+<!DOCTYPE html>
+<html>
+<body align="center">
+    <br />
+    <form action="/Home/Index" method="GET">
+        <p>
+            <input type="search" name="city" placeholder="City">
+
+            <input type="submit" value="Search">
+        </p>
+        @Html.ActionLink("Kyiv", "Index", new { city = "Kiev", dayCount = 1 }, null)
+        @Html.ActionLink("Lviv", "Index", new { city = "Lviv", dayCount = 1 }, null)
+        @Html.ActionLink("Kharkiv", "Index", new { city = "Kharkiv", dayCount = 1 }, null)
+        @Html.ActionLink("Dnipropetrivsk", "Index", new { city = "Dnipropetrovsk", dayCount = 1 }, null)
+        @Html.ActionLink("Odessa", "Index", new { city = "Odessa", dayCount = 1 }, null)
+    </form>
+    @{
+        if (Model == null)
+        {
+            <p> City not found</p>
+        }
+        else
+        {
+            <p> Forecast for @Model.city.name      @Html.ActionLink("1 day", "Index", new { city = @Model.city.name, dayCount = "1" })  @Html.ActionLink("3 day", "Index", new { city = @Model.city.name, dayCount = "3" })  @Html.ActionLink("7 day", "Index", new { city = @Model.city.name, dayCount = "7" })</p>
+            <table align="center" border="1">
+                @for (int i = 0; i < Model.cnt; i++)
+                {
+                    <tr>
+                        <td>
+                            @DateTime.Today.AddDays(i).ToString("D")
+                            <img src=@string.Format("http://openweathermap.org/img/w/{0}.png", Model.list[i].weather[0].icon) alt="forecast">
+                        </td>
+                        <td>
+                            @Model.list[i].temp.max °C   @Model.list[i].temp.min °C
+                            <i>@Model.list[i].weather[0].description</i>
+                            <p>
+                                @Model.list[i].speed m/s<br> clouds:@Model.list[i].clouds %   @Model.list[i].pressure hpa
+                            </p>
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        }
+    }
+
+
+</body>
+
+</html>

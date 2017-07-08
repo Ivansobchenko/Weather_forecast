@@ -1,0 +1,80 @@
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\csc.exe
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\System.Collections.Immutable.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\vbc.exe
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\VBCSCompiler.exe
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\roslyn\VBCSCompiler.exe.config
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Weather forecast.dll.config
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Weather forecast.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Weather forecast.pdb
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Antlr3.Runtime.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Microsoft.Web.Infrastructure.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Newtonsoft.Json.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.Helpers.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.Mvc.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.Optimization.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.Razor.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.WebPages.Deployment.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.WebPages.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.WebPages.Razor.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\WebGrease.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.Helpers.xml
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.Mvc.xml
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.Optimization.xml
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.Razor.xml
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.WebPages.xml
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.WebPages.Deployment.xml
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\System.Web.WebPages.Razor.xml
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Antlr3.Runtime.pdb
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\bin\Newtonsoft.Json.xml
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\obj\Debug\Weather forecast.csprojResolveAssemblyReference.cache
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\obj\Debug\Weather forecast.dll
+c:\users\іван\documents\visual studio 2015\Projects\Weather forecast\Weather forecast\obj\Debug\Weather forecast.pdb
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\csc.exe
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\System.Collections.Immutable.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\System.Reflection.Metadata.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\vbc.exe
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\VBCSCompiler.exe
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\roslyn\VBCSCompiler.exe.config
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Weather forecast.dll.config
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Weather forecast.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Weather forecast.pdb
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Antlr3.Runtime.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Microsoft.Web.Infrastructure.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Newtonsoft.Json.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.Helpers.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.Mvc.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.Optimization.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.Razor.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.WebPages.Deployment.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.WebPages.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.WebPages.Razor.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\WebGrease.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.Helpers.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.Mvc.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.Optimization.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.Razor.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.WebPages.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.WebPages.Deployment.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\System.Web.WebPages.Razor.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Antlr3.Runtime.pdb
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Newtonsoft.Json.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\obj\Debug\Weather forecast.csprojResolveAssemblyReference.cache
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\obj\Debug\Weather forecast.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\obj\Debug\Weather forecast.pdb
