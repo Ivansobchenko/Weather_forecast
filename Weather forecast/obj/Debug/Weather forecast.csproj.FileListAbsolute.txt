@@ -78,3 +78,10 @@ W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\
 W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\obj\Debug\Weather forecast.csprojResolveAssemblyReference.cache
 W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\obj\Debug\Weather forecast.dll
 W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\obj\Debug\Weather forecast.pdb
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Ninject.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Ninject.Web.Common.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Ninject.Web.Mvc.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\WebActivatorEx.dll
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Ninject.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Ninject.Web.Common.xml
+W:\Навчання\С#\myProgram\BSA2017\Weather forecast\Weather forecast\bin\Ninject.Web.Mvc.xml

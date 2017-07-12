@@ -13,12 +13,20 @@ namespace Weather_forecast.Controllers
 {
     public class HomeController : Controller
     {
+        private IWeatherForecastService _weatherForecast;
+
+        public HomeController(IWeatherForecastService weatherForecast)
+        {
+            _weatherForecast = weatherForecast;
+
+        }
+
         // GET: Home/Index
         public ActionResult Index(string city, string dayCount)
         {
             city = city ?? "Kiev";
             dayCount = dayCount ?? "1";
-            return View(OpenweathermapAPIService.GetWeatherInformation(city, dayCount));
+            return View(_weatherForecast.GetWeatherInformation(city, dayCount));
         }
 
         public ActionResult About()
