@@ -8,10 +8,10 @@ using Weather_forecast.Models;
 
 namespace Weather_forecast.Services
 {
-    public class OpenweathermapAPIService
+    public class OpenweathermapAPIService: IWeatherForecastService
     {
 
-        public static WeatherForecast GetWeatherInformation(string cityName, string dayCount)
+        public WeatherForecast GetWeatherInformation(string cityName, string dayCount)
         {
             try
             {
